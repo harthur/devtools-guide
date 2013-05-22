@@ -1,0 +1,12 @@
+* [[The Developer Tools]]
+* [[Inspecting the DOM]] (inspector, 3d view)
+* [[Editing Styles]] (inspector, style editor)
+* [[Debugging JavaScript]] (debugger, console)
+* [[Experimenting with JavaScript]] (console, scratchpad, jsterm)
+* [[Profiling JavaScript]] (profiler)
+* [[Monitoring Network Requests]] (network)
+* [[Developing for Mobile]] (responsive, appcache command)
+* [[Command Line]] (gcli)
+* [[Settings]] (settings, docking)
+* [[Debugging Firefox]] (browser debugger, browser console)
+* [[Devtools API]] (tools, commands, remote debugging protocol)
